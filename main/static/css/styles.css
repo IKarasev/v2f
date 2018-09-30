@@ -1,0 +1,17 @@
+.layout-row {
+	width: 100%;
+}
+
+.page-line {
+	position: relative;
+	padding: none;
+	margin-top: 0;
+	margin-bottom: 0;
+	width: 99vw;
+}
+
+.main-page-header {
+	display: block;
+	margin: none;
+	background-color: #e60000;
+}
